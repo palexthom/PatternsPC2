@@ -81,3 +81,4 @@ if __name__ == "__main__":
     magasin = PizzaStore(SimplePizzaFactory())
     magasin.orderPizza('cheese')
     magasin.orderPizza('clam')
+    magasin.orderPizza('pepperoni')
