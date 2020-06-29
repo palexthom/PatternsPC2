@@ -1,6 +1,8 @@
 from __future__ import annotations
 from abc import ABC, abstractmethod
 
+# Creation du projet dans PyCharm, creation du repository git (local) depuis PC, creation du repository distant et push depuis PC.
+
 class Pizza(ABC):
 
     name: str = None
